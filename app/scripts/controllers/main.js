@@ -15,6 +15,7 @@ angular.module('ngmaterialApp')
         $scope.isDisabled = true;
         $scope.googleUrl = 'http://google.com';
 
+        $scope.date = new Date();
         $scope.data = {};
         $scope.data.cb1 = true;
         $scope.data.cb2 = false;
