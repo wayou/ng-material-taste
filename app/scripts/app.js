@@ -13,9 +13,9 @@ angular
     'ngAnimate',
     'ngCookies',
     'ngResource',
-    'ngRoute',
     'ngSanitize',
     'ngTouch',
+    'ngRoute',
     'ngMaterial'
   ])
   .config(function ($routeProvider) {
